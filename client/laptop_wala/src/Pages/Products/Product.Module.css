@@ -1,0 +1,24 @@
+.product_container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  justify-content: center;
+}
+.product_container > div:nth-child(1) {
+  flex: 1;
+}
+.product_container > div:nth-child(2) {
+  flex: 4;
+}
+
+@media all and (min-width: 728px) and (max-width: 1250px) {
+  .product_container > div:nth-child(1) {
+    display: none;
+  }
+}
+
+@media all and (min-width: 338px) and (max-width: 728px) {
+  .product_container > div:nth-child(1) {
+    display: none;
+  }
+}

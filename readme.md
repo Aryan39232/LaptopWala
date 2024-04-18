@@ -99,6 +99,4 @@ Cart Page
 
 ## Authors
 
-#### Piryanshu Bisht
-
-> Github: [Piryanshu88](https://github.com/Piryanshu88)
+#### Aryan Patel

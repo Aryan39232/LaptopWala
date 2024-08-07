@@ -60,12 +60,6 @@ Landing page and navigation bar
 
 ---
 
-Footer of the website
-
-![LandingPage](/readmeImages/Footer.png)
-
----
-
 Laptop Details page
 
 ![LandingPage](/readmeImages/laptopList.png)
